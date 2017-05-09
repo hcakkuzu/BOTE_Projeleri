@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://boteprojeleri.com/Home/</loc>
+</url>
+<url>
+  <loc>http://boteprojeleri.com/Home/index.php</loc>
+</url>
+<url>
+  <loc>http://boteprojeleri.com/Proje/Login.php</loc>
+</url>
+<url>
+  <loc>http://boteprojeleri.com/Proje/Guest.php</loc>
+</url>
+<url>
+  <loc>http://boteprojeleri.com/Proje/ProjectDatabase.php</loc>
+</url>
+<url>
+  <loc>http://boteprojeleri.com/Proje/Instructions.php</loc>
+</url>
+<url>
+  <loc>http://boteprojeleri.com/Proje/InstructionDetails.php?id=3</loc>
+</url>
+<url>
+  <loc>http://boteprojeleri.com/Proje/InstructionDetails.php?id=4</loc>
+</url>
+<url>
+  <loc>http://boteprojeleri.com/Proje/InstructionDetails.php?id=5</loc>
+</url>
+<url>
+  <loc>http://boteprojeleri.com/Proje/InstructionDetails.php?id=6</loc>
+</url>
+<url>
+  <loc>http://boteprojeleri.com/files/1_proje_ve_yonetimi_document.pdf</loc>
+  <lastmod>2017-03-18T09:54:12+00:00</lastmod>
+</url>
+</urlset>
